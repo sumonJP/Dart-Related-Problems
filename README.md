@@ -36,8 +36,6 @@ cd Dart-Related-Problems
 Running the Programs
 To run any Dart program in this repository, navigate to the directory of the specific program and execute the following command:
 
-bash
-Copy code
 dart run <filename>.dart
 List of Problems
 Variables and Data Types
